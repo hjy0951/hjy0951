@@ -1,3 +1,7 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0951&layout=compact&theme=merko)
+
 ### Profile 🧑‍💻
 - Double major in Digital Media and Software(Computer Science) at Ajou Univ.
 - Interesting in Front-End
@@ -15,12 +19,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white&style=flat">
 </div>
-
-<div>
-  
-</div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
 
 
 <!--
