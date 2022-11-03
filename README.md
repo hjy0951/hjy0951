@@ -2,7 +2,24 @@
 - Double major in Digital Media and Software(Computer Science) at Ajou Univ.
 - Interesting in Front-End
 
-![HeoJoooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjy0951&show_icons=true&theme=github_dark)
+### skills
+
+
+<div>
+  <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&style=flat"/>
+  </br>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=Javascript&logoColor=black&style=flat"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&style=flat">
+  </br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white&style=flat">
+</div>
+
+<div>
+  
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
 
