@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![HeoJoooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjy0951&show_icons=true&theme=radical)
+![HeoJoooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjy0951&show_icons=true&theme=github_dark)
 
 <!--
 **hjy0951/hjy0951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
