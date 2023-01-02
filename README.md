@@ -1,7 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjy0951&layout=compact&theme=merko)
-
 ### Profile 🧑‍💻
 - Double major in Digital Media and Software(Computer Science) at Ajou Univ.
 - Interesting in Front-End
