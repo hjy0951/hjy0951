@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Blog
+<strike>배포는 했지만 아직 미완성입니다!</strike>
