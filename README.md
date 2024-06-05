@@ -6,8 +6,6 @@
   />
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
-
 ### Profile 🧑‍💻
 - Double major in Digital Media and Software(Computer Science) at Ajou Univ.
 - Interesting in Front-End
@@ -41,3 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
