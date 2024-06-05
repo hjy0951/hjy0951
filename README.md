@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/hjy0951"
+    width="400"
+    height="200"
+  />
+</a>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
 
 ### Profile 🧑‍💻
@@ -33,6 +41,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Blog
-<strike>배포는 했지만 아직 미완성입니다!</strike>
