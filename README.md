@@ -9,8 +9,8 @@
 </a>
 
 ### Profile 🧑‍💻
-- Double major in Digital Media and Software(Computer Science) at Ajou Univ.
-- Interesting in Front-End
+Double major in Digital Media and Software(Computer Science) at Ajou Univ.<br/>
+Interesting in Front-End
 
 ### Interests 🍳
 
@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
 
