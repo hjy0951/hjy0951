@@ -1,3 +1,5 @@
+<div align="center">
+  
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/hjy0951"
@@ -41,3 +43,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjy0951)](https://solved.ac/hjy0951/)
+
+</div>
